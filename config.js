@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/FQqnthj21zt2Eiiv7rQKxC'
 global.fgsc = 'https://github.com/chethana11' 
 global.fgyt = ' '
 global.fgpyp = ' '
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://images.hdqwalls.com/download/night-city-anime-boy-4k-6d-1280x2120.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
